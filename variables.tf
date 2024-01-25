@@ -1,15 +1,9 @@
-variable "int_type" {
-  
-}
+variable "int_type" {}
 
-variable "int_name" {
-  
-}
+variable "int_name" {}
 
-variable "user_data" {
-  
-}
+variable "user_data" {}
 
-variable "ami" {
-  
-}
+variable "ami" {}
+
+variable "subnet" {}
